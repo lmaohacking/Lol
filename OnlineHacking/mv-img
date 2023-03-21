@@ -24,8 +24,8 @@ if [[ $option == *'1'* ]]; then
 echo""
 clear
 termux-setup-storage
-mkdir /sdcard/OnlineHacKing
-mv *.png /sdcard/OnlineHacKing
+mkdir /sdcard/🅻🅼🅰🅾 🅷🅰🅲🅺🅸🅽🅶
+mv *.png /sdcard/🅻🅼🅰🅾 🅷🅰🅲🅺🅸🅽🅶
 echo -e "\e[1;96m Open Fils Manager & Chack OnlineHacKing Folder > > >\e[m "
 
 fi
